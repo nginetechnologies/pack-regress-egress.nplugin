@@ -1,0 +1,74 @@
+{
+    "guid": "985b1b8c-6106-9957-31fc-4bc39c00c093",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "4a9bc4b2-ddde-2cce-2905-8514415a7e87",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "832de88d-9f40-2d63-4247-bf63b5b4e162",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pillar Wall Base 1 Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "0f11a8c5-1906-ffdd-e9b7-11c7315ec707",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Pillar Wall Base 1 Sandstone 1 Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "dd9c7451-3ca6-60ea-4974-3c90132a1d72",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Pillar Wall Base 1 Sandstone 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7842e261-c0cd-fc15-e9af-0ec1cbeba44a",
+                                "material_instance": "3830faf3-766f-ee7d-7a86-8b18a4a2b207"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7842e261-c0cd-fc15-e9af-0ec1cbeba44a"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "985b1b8c-6106-9957-31fc-4bc39c00c093"
+    },
+    "dependencies": [
+        "3830faf3-766f-ee7d-7a86-8b18a4a2b207",
+        "7842e261-c0cd-fc15-e9af-0ec1cbeba44a",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}
