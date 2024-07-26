@@ -1,1 +1,24 @@
-{"1ff64262-2ad9-8e56-53f2-692cfc361c7b":{"assetTypeGuid":"c4e01aa2-495d-4eb1-b9be-fe0e30500b07","path":"Assets/Thumbnail/Regress_Egress_Thumb.tex.nasset"},"guid":"de96552f-86c2-8359-04ca-84f8dc3afddc"}
+{
+    "0acd86cf-d9d0-4aed-9733-cf64d51fa890": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Regress Egress Assets"
+    },
+    "1ff64262-2ad9-8e56-53f2-692cfc361c7b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Regress_Egress_Thumb.tex.nasset"
+    },
+    "3e7a38c2-6213-a7e6-d7d3-e0080ef9a1a2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Regress_EnviroDiffuse.tex.nasset"
+    },
+    "4db8ee85-5cef-e5ae-2c4f-a087d569cdaa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Regress_EnviroSpecular.tex.nasset"
+    },
+    "bfcde6a7-ff71-bd2d-71c1-71020e3ac5b3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Regress_Enviro.tex.nasset"
+    },
+    "guid": "de96552f-86c2-8359-04ca-84f8dc3afddc"
+}
